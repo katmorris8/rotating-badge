@@ -1,3 +1,13 @@
+.ad-space {
+  width: 315px;
+  height: 420px;
+  border: dotted 1px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
 .badge-container {
     width: 300px;
     height: 300px;
