@@ -1,0 +1,24 @@
+.half {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+  }
+  
+  .pink-half {
+    color: #223628;
+    background-color: #FAEFF3;
+    height: 150px;
+    width: 300px;
+    border-radius: 150px 150px 0 0;
+    letter-spacing: 1px;
+  }
+  
+  .green-half {
+    color: #FAEFF3;
+    background-color: #223628;
+    height: 150px;
+    width: 300px;
+    border-radius: 150px 150px 0 0;
+    transform: rotate(180deg);
+    letter-spacing: 1px;
+  }
